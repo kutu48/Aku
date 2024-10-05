@@ -11,7 +11,7 @@
 ### 🌟 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kutu48&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kutu48e&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kutu48&layout=compact&theme=radical)
 
 ### 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=your-username&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
